@@ -1,0 +1,29 @@
+.p1 {
+  font-family: 'Arial',Times,serif
+}
+
+.btn{
+  height: 50px;
+  width: 50px;
+}
+
+.btn2{
+  height: 40px;
+  width: 213px;
+}
+
+.result {
+  height : 30px;
+  width: 205px;
+}
+
+.normal{
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+.inner{
+  position: relative;
+  left: 10px;
+}
